@@ -14,11 +14,12 @@ My step-by-step learning journey into Cloud Computing, Linux, AWS, and DevOps.
 ## 🗺️ Learning Roadmap
 
 1. Linux Fundamentals
-2. Cloud Computing Fundamentals
-3. AWS Fundamentals
-4. Hands-on Cloud Projects
-5. DevOps Fundamentals
-6. Advanced Projects and Revision
+2. Git 
+3. Cloud Computing Fundamentals
+4. AWS Fundamentals
+5. Hands-on Cloud Projects
+6. DevOps Fundamentals
+7. Advanced Projects and Revision
 
 ## 📂 Repository Structure
 
