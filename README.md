@@ -22,7 +22,8 @@ My step-by-step learning journey into Cloud Computing, Linux, AWS, and DevOps.
 
 ## 📂 Repository Structure
 
-- `01-linux/` — Linux notes and practice
+- `01-linux/` - Linux notes and practice
+- `02-git/`   - Git notes and practice
 <!-- 
 - `02-cloud-fundamentals/` — Cloud concepts
 - `03-aws/` — AWS notes and exercises
